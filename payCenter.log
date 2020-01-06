@@ -1,0 +1,150 @@
+2019-12-10 09:18:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 09:18:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 09:18:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 09:18:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 09:35:30 [http-nio-8087-exec-5] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:35:33 [http-nio-8087-exec-4] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:35:35 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:35:55 [clientInboundChannel-2] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:37:14 [clientInboundChannel-5] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:40:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 09:40:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 09:40:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 09:40:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 09:41:31 [http-nio-8087-exec-5] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:42:04 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:42:06 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:42:21 [clientInboundChannel-3] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:42:31 [clientInboundChannel-2] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:42:51 [clientInboundChannel-3] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:45:07 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:45:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 09:45:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 09:45:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 09:45:52 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 09:46:23 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:46:27 [http-nio-8087-exec-6] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:46:28 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:46:44 [clientInboundChannel-4] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:47:55 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:47:57 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:48:01 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:48:16 [clientInboundChannel-8] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:49:22 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:49:32 [clientInboundChannel-9] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 09:53:46 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 09:53:46 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 09:53:46 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 09:53:46 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 09:54:01 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:54:01 [http-nio-8087-exec-4] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 09:54:14 [clientInboundChannel-2] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:01:03 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 10:01:03 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 10:01:03 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 10:01:03 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 10:01:39 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:01:42 [clientInboundChannel-2] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:01:50 [http-nio-8087-exec-6] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:01:59 [clientInboundChannel-1] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:02:15 [http-nio-8087-exec-5] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:02:20 [clientInboundChannel-3] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:02:39 [clientInboundChannel-2] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:03:22 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 10:03:22 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 10:03:22 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 10:03:22 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 10:03:33 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:03:34 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:03:53 [clientInboundChannel-4] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:09:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------configureMessageBroker---------------------------
+2019-12-10 10:09:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----SocketSessionRegistry-----
+2019-12-10 10:09:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - ----------------registerStompEndpoints---------------------------
+2019-12-10 10:09:12 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer3] - -----STOMPConnectEventListener-----
+2019-12-10 10:09:57 [http-nio-8087-exec-2] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:10:00 [http-nio-8087-exec-6] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:10:07 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:10:09 [clientInboundChannel-2] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:10:34 [clientInboundChannel-1] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:25:55 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:25:58 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:26:00 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:26:10 [clientInboundChannel-8] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:26:17 [clientInboundChannel-5] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:26:26 [clientInboundChannel-6] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:26:27 [clientInboundChannel-7] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:26:27 [clientInboundChannel-8] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:26:27 [clientInboundChannel-6] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:26:27 [clientInboundChannel-8] INFO  [com.yufan.websocket.controller.GreetingController] - ----------greeting2--------------
+2019-12-10 10:29:57 [http-nio-8087-exec-3] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 10:29:59 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.bean.STOMPConnectEventListener] - -------onApplicationEvent------------
+2019-12-10 11:32:17 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 11:32:17 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 11:32:17 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 11:33:59 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 11:33:59 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 11:33:59 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 11:34:20 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 11:34:20 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 11:34:20 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 11:35:48 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 11:35:48 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 11:35:48 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 11:35:48 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------registerStompEndpoints-------
+2019-12-10 11:44:15 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 11:44:16 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 11:44:16 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 11:44:16 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------registerStompEndpoints-------
+2019-12-10 12:00:23 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 12:00:23 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 12:00:23 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 12:00:24 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------registerStompEndpoints-------
+2019-12-10 13:33:44 [clientInboundChannel-5] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=b, user=a)
+2019-12-10 13:34:35 [clientInboundChannel-7] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=a你好, user=a)
+2019-12-10 13:35:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 13:35:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 13:35:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 13:35:51 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------registerStompEndpoints-------
+2019-12-10 13:42:41 [clientInboundChannel-12] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=你好, user=b)
+2019-12-10 13:57:54 [clientInboundChannel-19] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=gfdg, user=b)
+2019-12-10 13:58:05 [clientInboundChannel-21] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=gfdg, user=b)
+2019-12-10 13:58:24 [clientInboundChannel-20] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=a我很好, user=a)
+2019-12-10 13:58:27 [clientInboundChannel-19] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到点对点消息：ReceiveMessage(msg=b你好, user=b)
+2019-12-10 14:03:31 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 14:03:31 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 14:03:31 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 14:03:31 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------registerStompEndpoints-------
+2019-12-10 14:04:04 [clientInboundChannel-4] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到广播消息：ReceiveMessage(msg=fdgdg, user=null)
+2019-12-10 14:06:28 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到广播消息：ReceiveMessage(msg=null, user=null)
+2019-12-10 14:07:10 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureClientInboundChannel-------
+2019-12-10 14:07:10 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------userInterceptor-------
+2019-12-10 14:07:10 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------configureMessageBroker-------
+2019-12-10 14:07:10 [restartedMain] INFO  [com.yufan.websocket.service.WebSocketServer4] - ------registerStompEndpoints-------
+2019-12-10 14:07:43 [clientInboundChannel-4] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到广播消息：ReceiveMessage(msg=dsfsf, user=null)
+2019-12-10 14:07:53 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.controller.SocketController4] - 服务端接收到广播消息：ReceiveMessage(msg=null, user=null)
+2019-12-10 14:09:18 [http-nio-8087-exec-7] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:18 [http-nio-8087-exec-7] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={mkipkihg=id=mkipkihg, subscriptions={sub-0=destination=/topic/getResponse}, wyqm3fi1=id=wyqm3fi1, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:55 [http-nio-8087-exec-5] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:55 [http-nio-8087-exec-5] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:56 [http-nio-8087-exec-6] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:56 [http-nio-8087-exec-6] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:56 [http-nio-8087-exec-7] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:56 [http-nio-8087-exec-7] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:56 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:56 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:57 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:57 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:57 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:57 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:09:57 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:09:57 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={ics0un13=id=ics0un13, subscriptions={sub-0=destination=/topic/getResponse}, ara2xsfe=id=ara2xsfe, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:10:03 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:10:03 [http-nio-8087-exec-9] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={gl0zckqy=id=gl0zckqy, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:10:04 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:10:04 [http-nio-8087-exec-8] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={gl0zckqy=id=gl0zckqy, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:10:04 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:10:04 [http-nio-8087-exec-10] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={gl0zckqy=id=gl0zckqy, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:10:04 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:10:04 [http-nio-8087-exec-1] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={gl0zckqy=id=gl0zckqy, subscriptions={sub-0=destination=/topic/getResponse}}
+2019-12-10 14:10:04 [http-nio-8087-exec-2] INFO  [com.yufan.websocket.controller.SocketController4] - 当前在线人数:1
+2019-12-10 14:10:04 [http-nio-8087-exec-2] INFO  [com.yufan.websocket.controller.SocketController4] - 用户1---name=yunfei, sessions={gl0zckqy=id=gl0zckqy, subscriptions={sub-0=destination=/topic/getResponse}}
